@@ -1,0 +1,29 @@
+/* #title{
+    font-style: italic;
+} */
+.yourllp-affiliate-logo {
+  width: 15%;
+}
+
+.yourllp-affiliate-table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.yourllp-affiliate-td,
+.yourllp-affiliate-th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  font-size: 17px;
+  padding: 50px;
+}
+
+.yourllp-affiliate-tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.yourllp-affiliate-shortcode-images {
+  width: 30%;
+}
+
